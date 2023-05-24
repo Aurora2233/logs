@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "System",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true
+  },
+  "extends": "@tsconfig/recommended/tsconfig.json"
+}
