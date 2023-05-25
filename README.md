@@ -17,3 +17,5 @@
 ### 结构型模式
 
 装饰模式(decorator pattern)
+
+适配器模式(adapter pattern)
