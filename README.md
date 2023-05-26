@@ -25,3 +25,17 @@
 组合模式(composite pattern)
 
 外观模式(facade pattern)
+
+享元模式(flyweight pattern)
+
+代理模式(Proxy pattern)
+
+### 行为模式
+
+责任链模式(Liability chain pattern)
+
+命令模式(Commands pattern)
+
+迭代器模式(Iterators pattern)
+
+中介器模式(mediator pattern)
