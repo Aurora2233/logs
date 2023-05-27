@@ -39,3 +39,15 @@
 迭代器模式(Iterators pattern)
 
 中介器模式(mediator pattern)
+
+备忘录模式(Memento pattern)
+
+观察者模式(observer pattern)
+
+状态模式(state pattern)
+
+策略模式(strategy pattern)
+
+模版方法模式(template pattern)
+
+访问者模式(visitor pattern)

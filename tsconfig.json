@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "lib": ["ES2020", "DOM"],
     "module": "System",
     "noImplicitAny": true,
     "removeComments": true,
